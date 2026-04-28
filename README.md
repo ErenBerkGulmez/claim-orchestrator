@@ -72,7 +72,7 @@ npm or yarn
 
 Installation
 ```text
-git clone https://github.com/your-username/claim-orchestrator.git
+git clone https://github.com/ErenBerkGulmez/claim-orchestrator
 cd claim-orchestrator
 npm install
 npm run dev
